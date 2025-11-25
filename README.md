@@ -14,4 +14,4 @@ Include the files used
 Files used are bikeshare.py , and ignored files are chicago.csv, new_york_city.csv, washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-Inspired by Udacity's introduction to version control course. 
+Inspired by Udacity's introduction to version control course. Bikeshare inspired by Udacity Programming for Data Science with Python with assistance from Udacity AI assistant.
